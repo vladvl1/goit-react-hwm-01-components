@@ -2,7 +2,7 @@
   "name": "goit-react-hwm-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vladvl1/goit-react-hwm-01-components",
+  "homepage": "https://vladvl1.github.io/goit-react-hwm-01-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
